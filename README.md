@@ -7,10 +7,11 @@
 👩🏻‍💻
 - SQL
 - Python
-- библиотеки (Pandas, NumPy,)
+- библиотеки (Pandas, NumPy, Matplotlib, Seaborn, scikit-learn)
 - Power BI, Tableau
 - Git, Docker
-- 
+
+Полное резюме [здесь](https://github.com/Arrinna/arrinna/blob/main/CV_Arrinna.md)
 
 🗣 English (C1), Deutsch (B1)
 
