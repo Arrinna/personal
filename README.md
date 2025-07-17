@@ -8,6 +8,7 @@
 - SQL
 - Python
 - библиотеки (Pandas, NumPy,)
+- Power BI, Tableau
 - Git, Docker
 - 
 
