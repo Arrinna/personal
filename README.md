@@ -1,21 +1,28 @@
 Полное резюме [здесь](https://github.com/Arrinna/arrinna/blob/main/CV_Arrinna.md)
 <br>
 <br>
-### 👋 Привет, мир! 
-Меня зовут Арина. Я начинающий **аналитик данных** с опытом в demand planning, логистике и бизнес-процессах. После более 10 лет работы в крупных международных компаниях, где ежедневно соприкасалась с большими объемами данными, решила развивать свой интерес в этом направлении напрямую. Прошла переобучение по программе по аналитике данных, включающей в себя темы: Python, SQL, BI-инструменты, бизнес- и продуктовая аналитика. 
+### 👋 Hello, world! 
+Меня зовут Арина. Я начинающий **аналитик данных** с опытом в demand planning, логистике и бизнес-процессах. После более 10 лет работы в крупных международных компаниях, где ежедневно соприкасалась с большими объемами данными, решила развивать свой интерес в этом направлении напрямую. 
+
+Прошла переобучение по программе по аналитике данных, включающей в себя темы: SQL, Python, BI-инструменты, бизнес-аналитику и продуктовую аналитика. 
+
 Обладаю опытом работы с Excel на продвинутом уровне и Power BI. Использую данные для анализа, решения рабочих задач и оптимизации процессов.
 
-Я ищу команду, где можно расти как аналитик, решая нетривиальные задачи, и уверена, что мои навыки и опыт, структурный подход и аналитическое мышление будут полезны в вашей команде.
-
-📍Санкт-Петербург <br>
-🗣 Русский (Родной), English (C1, fluent), Deutsch (B1)
+Я ищу команду, где можно расти как аналитик, решая разные задачи, и уверена, что мои навыки и опыт, структурный подход и аналитическое мышление будут полезны в вашей команде.
+<br>
+<br>
+📍Санкт-Петербург
+<br>
+<br>
+🗣 Русский (Родной), English (C1 fluent), Deutsch (B1)
 <br>
 <br>
 
 ### 👩🏻‍💻 Hard skills
 
-- Excel (продвинутые формулы, pivot, макросы)
-- SQL (джойны, подзапросы, CTE, оконки)
+- Excel (advanced formula, pivot, macro)
+- SQL (joins, subqueries, CTE, window functions)
+- Python
 <br>
 <br>
 
@@ -36,11 +43,9 @@
 | <p align="center"><a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" title="Jupyter" width="50" height="50"/> </a></p> | <p align="center"><a href="https://www.anaconda.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" alt="anaconda" title="Anaconda" width="50" height="50"/> </a></p> | <p align="center"><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="vscode" title="VS Code" width="50" height="50"/> </a></p> | <p align="center"><a href="https://colab.research.google.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" alt="colab" title="Google Colab" width="50" height="50"/> </a></p> | <p align="center"><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" title="Git" width="50" height="50"/> </a></p> | <p align="center"><a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" title="Docker" width="50" height="50"/> </a></p> | <p align="center"><a href="https://www.pgadmin.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="pgAdmin" title="pgAdmin" width="50" height="50"/> </a></p> | <p align="center"><a href="https://dbeaver.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/dbeaver/dbeaver/devel/product/community/icons/dbeaver.png" alt="dbeaver" title="DBeaver" width="50" height="50"/> </a></p> | <p align="center"><a href="https://daringfireball.net/projects/markdown/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg" alt="Markdown" title="Markdown" width="50" height="50"/> </a></p> |
 
 
-### Дополнительно о себе 
-Волонтерство (эко, соц, другое), спорт (бег, теннис, лыжи), медитация, чтение
+### ➕ Additional Info
+Волонтерство (эко ♻, соц, другое), спорт (🏃🏻‍♀, 🎾, 🏄🏻‍♀), медитация 🧘🏻‍♀️, чтение 📖, хайкинг 🥾🏕
 
 Top 5 CliftonStrengths: Intellection, Deliberative, Connectedness, Harmony, Input
 
 MBTI type: INTJ
-
-Другие интересы 🏃🏻‍♀🏄🏻‍♀🏕🥾🎾♻
