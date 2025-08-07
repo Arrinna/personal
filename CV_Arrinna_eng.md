@@ -3,38 +3,34 @@ Saint Petersburg   | 📧 arina.donskikh@gmail.com | Telegram: [@arrinna](https:
 
 ---
 
-## 🎯 ЦЕЛЬ  
-Начинающий аналитик данных с опытом в бизнес-процессах, логистике и закупках. После 15 лет в международных компаниях завершила переобучение по аналитике данных: Python, SQL, BI-инструменты, бизнес- и продуктовая аналитика. Обладаю опытом работы с Excel на продвинутом уровне и Power BI. Использую данные для анализа, решения рабочих задач и оптимизации процессов
+## 🎯 GOAL  
+Junior Data Analyst with a strong foundation in procurement, logistics, and business operations. Bringing over 10 years of experience in leading international companies, I have recently transitioned into the field of data analytics, completing a comprehensive retraining program focused on SQL, Python, BI tools, and both business and product analytics. I possess advanced proficiency in Excel and practical experience with Power BI. Eager to continue developing my analytical skills and contribute to data-driven decision-making by solving complex and impactful business challenges.
 
 ---
 
-## 🧰 КЛЮЧЕВЫЕ НАВЫКИ  
-- **Инструменты:**
-    - SQL (джойны, подзапросы, CTE, оконки)
-    - Python (в т.ч. Pandas, NumPy, Matplotlib, Seaborn, scikit-learn)
+## 🧰 KEY SKILLS  
+- **Tools & Technologies:**
+    - SQL (joins, subqueries, CTEs, window functions)
+    - Python (including Pandas, NumPy, Matplotlib, Seaborn, scikit-learn)
     - Power BI, Tableau
-    - Excel (в т.ч. VBA)
+    - Excel (including VBA)
     - Git, Docker, SAP, Markdown, ChatGPT
-- **Аналитика:** Прогнозирование, KPI, визуализация данных, автоматизация отчётности  
-- **Языки:** Английский — C1 (свободно), Немецкий — B1  
-- **Soft skills:** Умение анализировать и структурировать информацию, эффективно работать в команде и самостоятельно, быстро обучаться, адаптироваться к новым задачам
+- **Analytics:** Forecasting, KPI tracking, data visualization, reporting automation  
+- **Languages:** English — C1 (Fluent), German — B1 (Intermediate)  
+- **Soft skills:** Strong analytical and problem-solving abilities, structured thinking, effective both in team collaboration and independent work, fast learner, adaptable to new challenges and environments
 
 ---
 
-## 🎓 ОБРАЗОВАНИЕ  
-**2023–2024**  
-**Changellenge | Аналитик PRO**  
-Годичная практико-ориентированная программа по аналитике данных и бизнес-анализу  
-- Освоила SQL, Python, Power BI, Excel (в т.ч. продвинутые формулы и автоматизация), основы финансов, продуктовой и маркетинговой аналитики  
-- Выполнила 13 индивидуальных проектов (в SQL, Excel, Python, Tableau) и 7 командных кейсов, направленных на решение бизнес-задач с использованием данных  
-- Разрабатывала дашборды, проводила моделирование и оптимизацию бизнес-процессов, участвовала в воркшопах и презентациях  
+## 💼 PROFESSIONAL EXPERIENCE
 
-**2002–2007**  
-**Национальный исследовательский университет «Высшая школа экономики», Москва** — Мировая экономика  
+**2023–2025**  
+**Career Transition & Education** – Data Analys
 
----
-
-## 💼 ОПЫТ РАБОТЫ
+Changellenge.com | Analyst PRO Program
+A one-year, practice-oriented program in data and business analytics.
+- Gained hands-on experience with SQL (including subqueries, CTEs, and window functions), Python (with data analysis and ML libraries), Tableau, and advanced Excel (including automation and complex formulas)
+- Completed 13 individual projects (in SQL, Excel, Python, Tableau) and 7 team-based business case studies focused on solving real-world business problems using data
+- Designed interactive dashboards, conducted business process modeling and optimization, and actively participated in workshops and presentations
 
 **2017–2022**  
 **PUMA (Middle East)** – Менеджер по закупкам  
@@ -56,10 +52,18 @@ Saint Petersburg   | 📧 arina.donskikh@gmail.com | Telegram: [@arrinna](https:
 - Контролировала импортные операции и взаимодействие с провайдерами (таможня, транспорт, сертификация)  
 - Разрабатывала и поддерживала локальные базы данных по продукту, ГТД и счетам  
 
+---
+
+## 🎓 EDUCATION  
+**2023–2025**  
+**Higher School of Analytics and Strategy (Changellenge >>)** — Analytics PRO  
+
+**2002–2007**  
+**Higher School of Economics, Moscow** — World Economy & International Affairs 
 
 ---
 
-## 🔍 ДОПОЛНИТЕЛЬНО  
+## 🔍 ADDITIONAL INFO  
 - Волонтёрство и активный образ жизни (бег, фитнес, теннис)  
 - Личностное развитие: чтение, практики осознанности  
-- Профиль по Gallup и MBTI (INTJ): аналитичность, системность, внутренняя мотивация  
+- Профиль по Gallup и MBTI (INTJ): аналитичность, системность, внутренняя мотивация
