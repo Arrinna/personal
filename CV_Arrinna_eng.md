@@ -24,24 +24,26 @@ Junior Data Analyst with a strong foundation in procurement, logistics, and busi
 ## 💼 PROFESSIONAL EXPERIENCE
 
 **2023–2025**  
-**Career Transition & Education** – Data Analys
+**Career Transition & Education** – Data Analyst
 
 Changellenge.com | Analyst PRO Program
+
 A one-year, practice-oriented program in data and business analytics.
+
 - Gained hands-on experience with SQL (including subqueries, CTEs, and window functions), Python (with data analysis and ML libraries), Tableau, and advanced Excel (including automation and complex formulas)
 - Completed 13 individual projects (in SQL, Excel, Python, Tableau) and 7 team-based business case studies focused on solving real-world business problems using data
 - Designed interactive dashboards, conducted business process modeling and optimization, and actively participated in workshops and presentations
 
 **2017–2022**  
-**PUMA (Middle East)** – Менеджер по закупкам  
-- Управляла размещением заказов, обеспечивая своевременную и точную поставку  
-- Оптимизировала процесс заказов со свободного склада: сократила время подготовки данных, улучшила видимость запасов для команды продаж и клиентов  
-- Поддерживала категорийных мерчендайзеров в прогнозировании спроса и анализе цен  
-- Руководила проектом внедрения Power BI: разрабатывала локальные дашборды, участвовала в создании глобальных, обучала коллег работе с BI-инструментами  
-- На всех этапах активно работала с объёмными таблицами в Excel, использовала продвинутые формулы, сводные таблицы и макросы (VBA)
+**PUMA (Middle East)** – Purchasing Manager  
+- Managed purchase order placement, ensuring timely and accurate deliveries
+- Optimized the free stock ordering process by reducing data preparation time and improving stock visibility for the sales team and customers
+- Supported category merchandisers with demand forecasting and pricing analysis
+- Led a Power BI implementation project: developed local dashboards, contributed to global dashboard design, and trained colleagues on BI tools
+- Worked extensively with large Excel datasets, using advanced formulas, pivot tables, and VBA macros at all stages of the procurement workflow
 
 **2011–2017**  
-**PUMA (Россия)** – Менеджер по логистике  
+**PUMA (Russia)** – Logistics Manager  
 - Управляла размещением заказов и сквозным отслеживанием поставок  
 - Была ключевым пользователем SAP: поддержка команды, оптимизация процессов  
 - Разрабатывала и вела базы данных сезонных товаров, повышая точность и доступность информации  
