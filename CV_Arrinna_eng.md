@@ -44,15 +44,15 @@ A one-year, practice-oriented program in data and business analytics.
 
 **2011–2017**  
 **PUMA (Russia)** – Logistics Manager  
-- Управляла размещением заказов и сквозным отслеживанием поставок  
-- Была ключевым пользователем SAP: поддержка команды, оптимизация процессов  
-- Разрабатывала и вела базы данных сезонных товаров, повышая точность и доступность информации  
-- Проводила регулярный анализ и отчётность, поддерживая принятие решений в цепочке поставок  
+- Oversaw order placement and end-to-end supply tracking
+- Acted as a key SAP user, supporting the team and optimizing logistics processes
+- Developed and maintained seasonal product databases, improving data accuracy and accessibility
+- Conducted regular analysis and reporting to support decision-making across the supply chain
 
 **2008–2011**  
-**NIKE** – Специалист по логистике  
-- Контролировала импортные операции и взаимодействие с провайдерами (таможня, транспорт, сертификация)  
-- Разрабатывала и поддерживала локальные базы данных по продукту, ГТД и счетам  
+**NIKE** – Logistics Specialist  
+- Managed import operations and coordination with service providers (customs, transportation, certification)
+- Developed and maintained local databases for product data, customs declarations, and invoices
 
 ---
 
@@ -61,11 +61,11 @@ A one-year, practice-oriented program in data and business analytics.
 **Higher School of Analytics and Strategy (Changellenge >>)** — Analytics PRO  
 
 **2002–2007**  
-**Higher School of Economics, Moscow** — World Economy & International Affairs 
+**Higher School of Economics (HSE University), Moscow** — World Economy & International Affairs 
 
 ---
 
 ## 🔍 ADDITIONAL INFO  
-- Волонтёрство и активный образ жизни (бег, фитнес, теннис)  
-- Личностное развитие: чтение, практики осознанности  
-- Профиль по Gallup и MBTI (INTJ): аналитичность, системность, внутренняя мотивация
+- Volunteer experience and active lifestyle enthusiast (running, fitness, tennis)
+- Committed to personal development through reading and mindfulness practices
+- Gallup Strengths & MBTI (INTJ): analytical mindset, systematic approach, self-motivation
