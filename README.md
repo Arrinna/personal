@@ -30,6 +30,7 @@
 + Python
     + Pandas, Numpy, Sympy
     + Matplotlib, Seaborn
+    + sklearn
     + Jupiter, Anaconda, Colab
 
 + Excel (продвинутые формулы, pivot, макросы VBA)
