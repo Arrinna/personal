@@ -23,17 +23,8 @@
 
 ### 👩🏻‍💻 [Стек](https://github.com/Arrinna/Arrinna/blob/main/nice_viz.md)
 
-+ SQL:
-    + joins, subqueries, CTE, window functions
-    + Postgres, MySQL, Clickhouse
-    + DBeaver, pgAdmin
-      
-+ Python
-    + Pandas, Numpy, Sympy
-    + Matplotlib, Seaborn
-    + sklearn
-    + Jupiter, Anaconda, Colab
-
++ SQL (joins, subqueries, CTE, window functions)
++ Python (Pandas, Numpy, Matplotlib, Seaborn, sklearn)
 + Excel (продвинутые формулы, pivot, Power Query, Power Pivot, макросы VBA)
 + Google Sheets (+ немного GAS)
 + базовые навыки по Git, Docker, cli 
